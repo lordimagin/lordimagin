@@ -8,17 +8,17 @@ Soy una persona metódica, organizada y constante. Disfruto resolviendo problema
 
 <div align="center">
 
-[Habilidades](#habilidades) |
-[Experiencia](#experiencia) |
-[Formación](#formación) |
-[Intereses](#intereses) |
-[Contacto](#contacto)
+[Habilidades](#Habilidades) |
+[Experiencia](#Experiencia) |
+[Formación](#Formación) |
+[Intereses](#Intereses) |
+[Contacto](#Contacto)
 
 </div>
 
 ---
 
-# 🧠 Habilidades
+# Habilidades
 
 ## Desarrollo y Programación
 - Lenguajes: **Java**, **PHP**, **MySQL**, **HTML**, **CSS**, **JavaScript**.  
@@ -54,7 +54,7 @@ Soy una persona metódica, organizada y constante. Disfruto resolviendo problema
 </a>
 -->
 
-# 💼 Experiencia
+# Experiencia
 
 - **Operador de Sala – CaixaBank (Cerdanyola del Vallès)** *(2020 – Actualidad)*  
   Gestión e inventario de hardware y periféricos. Montaje de racks, etiquetado, cableado y control documental técnico. Cumplimiento de SLAs y estandarización de procesos.
@@ -72,7 +72,7 @@ Soy una persona metódica, organizada y constante. Disfruto resolviendo problema
 
 ---
 
-# 🎓 Formación
+# Formación
 
 - **CFGS — Desarrollo de Aplicaciones Web (DAW)** · IES Carles Vallbona, Granollers *(2017 – 2019)*  
 - **CFGM — Sistemas Microinformáticos y Redes (SMR)** · IES Carles Vallbona, Granollers *(2015 – 2017)*  
@@ -82,7 +82,7 @@ Soy una persona metódica, organizada y constante. Disfruto resolviendo problema
 
 ---
 
-# 🌱 Intereses
+# Intereses
 
 - Tecnología, automatización y aprendizaje continuo.  
 - Diseño técnico, visualización 3D y modelado CAD.  
@@ -90,7 +90,7 @@ Soy una persona metódica, organizada y constante. Disfruto resolviendo problema
 
 ---
 
-# 📫 Contacto
+# Contacto
 
 <img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="20" height="20"/> Linkedin: [Marc Gomis Galera](https://www.linkedin.com/in/marc-gomis-galera/)  
 <img src="https://cdn4.iconfinder.com/data/icons/miu-black-social-2/60/mail-512.png" width="20" height="20"/> Correo: [marc.gomis07@gmail.com](mailto:marc.gomis07@gmail.com)
