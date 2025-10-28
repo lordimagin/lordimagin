@@ -77,8 +77,7 @@ Soy una persona metódica, organizada y constante. Disfruto resolviendo problema
 - **CFGS — Desarrollo de Aplicaciones Web (DAW)** · IES Carles Vallbona, Granollers *(2017 – 2019)*  
 - **CFGM — Sistemas Microinformáticos y Redes (SMR)** · IES Carles Vallbona, Granollers *(2015 – 2017)*  
 - **CFGS — Proyectos de Edificación** · IES Miquel Biada, Mataró *(2011 – 2013)*  
-- **CFGM — Obras de Interior, Decoración y Rehabilitación** · IES Miquel Biada, Mataró *(2013 – 2015)*  
-- **Bachillerato Tecnológico** · Col·legi Sant Antoni de Pàdua, Mataró *(2007 – 2011)*  
+- **CFGM — Obras de Interior, Decoración y Rehabilitación** · IES Miquel Biada, Mataró *(2013 – 2015)* 
 
 ---
 
