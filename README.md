@@ -63,7 +63,7 @@ Soy una persona metódica, organizada y constante. Disfruto resolviendo problema
   Soporte a usuarios, mantenimiento de equipos y desarrollo web interno en **Java / PHP / MySQL**.  
   Participación en la aplicación corporativa *H@RUS* y pruebas funcionales con bases de datos.
 
-- **Técnico Informático (Prácticas) – Click Service (Albertville, Francia)** *(2016)*  
+- **Técnico Informático – Click Service (Albertville, Francia)** *(2016)*  
   Reparación, diagnóstico y configuración de equipos informáticos y móviles. Atención al cliente y soporte técnico.
 
 - **Auxiliar Delineante y Administrativo – Projectes a mida (Argentona)** *(2014 – 2015)*  
